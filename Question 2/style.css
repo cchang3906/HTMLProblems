@@ -1,0 +1,36 @@
+.center{
+    text-align: center;
+}
+
+.space-out{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    background-color: orange;
+}
+
+#input-field{
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 3px 30px;
+    font-size: 15px;
+}
+
+#add-btn{
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: lightgreen;
+    font-weight: bold;
+    padding: 3px 5px;
+    font-size: 15px;
+}
+#remove-btn{
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: lightgreen;
+    font-weight: bold;
+    padding: 3px 5px;
+    font-size: 15px;
+}
