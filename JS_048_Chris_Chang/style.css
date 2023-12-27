@@ -1,0 +1,25 @@
+.center{
+    text-align: center;
+}
+
+.space-out{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    background-color: aqua;
+}
+
+#add-button{
+    padding: 5px 10px;
+    background-color: bisque;
+    border: 3px solid blue;
+    border-radius: 5px;
+}
+#remove-button{
+    padding: 5px 10px;
+    background-color: bisque;
+    border: 3px solid blue;
+    border-radius: 5px;
+}

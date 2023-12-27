@@ -1,0 +1,12 @@
+.center {
+    text-align: center;
+}
+
+.space-out{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#input-button{
+    margin-bottom: 5px;
+}

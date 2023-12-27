@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+#caption {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#title{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+#input-fields{
+    display: flex;
+    justify-content: space-evenly;
+}

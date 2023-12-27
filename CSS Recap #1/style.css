@@ -1,0 +1,46 @@
+body{
+    background-image: linear-gradient(rgb(84, 84, 239), rgb(247, 58, 58));
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+#title{
+    font-family: 'keepontruckin', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+    font-size: 100px;
+}
+
+#showcase{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+
+#showcase img{
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+    border: #ffffff 3px solid;
+}
+
+#caption{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-size: 20px;
+}
+
+
+#bottomline{
+    padding-top: 70px;
+    text-align: center;
+    
+}
+
+h2{
+    font-weight: normal;
+}
